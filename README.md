@@ -1,4 +1,4 @@
-# AI Learning Portfolio
+## coding-learning-portfolio
 
 Hi! I’m Cindy, a student interested in AI and math
 
